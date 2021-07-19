@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=jvZ0vuC9oJk&list=PLE4a3phdCOauXaK3f1QMI_fEIqEYTsH9I&ab_channel=NEDL
-
 # if JSON decode error do --> pip install yfinance --upgrade --no-cache-dir
 
 # Importing packages
